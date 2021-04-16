@@ -11,4 +11,4 @@ This solution provides compositional analysis and predicts the number of inciden
 * InfraGraf is a patented Cognitive infrastructure automation platform that optimizes enterprise technology infrastructure investments. It diagnoses and predicts infrastructure failures. Need customized Machine Learning and Deep Learning solutions? Get in touch!.
 
 ## Amazon Marketplace Link
-The product can be found [here](Marketplace Link to the listing. Update this once it is published. Example: https://aws.amazon.com/marketplace/pp/prodview-uzkcdmjuagetk)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-zwze5taosxfpu?qid=1618557892814&sr=0-1&ref_=srh_res_product_title)
